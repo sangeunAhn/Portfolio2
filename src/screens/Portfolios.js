@@ -22,7 +22,7 @@ class Portfolios extends Component {
 							paddingTop: 20,
 						}}
 					>
-						<div style={{ fontSize: 30, marginBottom: 50 }}>2gloo(이글루) 앱</div>
+						<a href="https://appadvice.com/app/2gloo-ec-9d-b4-ea-b8-80-eb-a3-a8-ec-9a-b0-eb-a6-ac-eb-8c-80-ed-95-99-ea-b5-90-eb-aa-a8-ec-9e-84/1486698699" style={{ fontSize: 30, marginBottom: 50 }}>2gloo(이글루) 앱</a>
 						<div style={{ marginBottom: 20 }}>각 대학교들의 동아리, 모임들을 한곳에 모아놓은 앱</div>
 						<div style={{ marginBottom: 20 }}>React Native / php / AWS</div>
 						<a href="https://github.com/sangeunAhn/2gloo" style={{ width: 25 }}>
@@ -46,7 +46,7 @@ class Portfolios extends Component {
 							paddingTop: 20,
 						}}
 					>
-						<div style={{ fontSize: 30, marginBottom: 50 }}>Popcorn Time</div>
+						<a href="https://happy-bhabha-ab7174.netlify.com/#/" style={{ fontSize: 30, marginBottom: 50 }}>Popcorn Time</a>
 						<div style={{ marginBottom: 20 }}>Popcorn Time 클론 코딩</div>
 						<div style={{ marginBottom: 20 }}>React</div>
 						<a href="https://github.com/sangeunAhn/Popcorn-Time" style={{ width: 25 }}>
@@ -70,7 +70,7 @@ class Portfolios extends Component {
 							paddingTop: 20,
 						}}
 					>
-						<div style={{ fontSize: 30, marginBottom: 50 }}>인스타그램 (RN 제작중)</div>
+						<a href="https://sangeunprismagram.netlify.com/#/" style={{ fontSize: 30, marginBottom: 50 }}>인스타그램 (RN 제작중)</a>
 						<div style={{ marginBottom: 20 }}>인스타그램 클론 코딩</div>
 						<div style={{ marginBottom: 20 }}>
 							React / React-Native / GraphQL / Apollo / Prisma / Heroku / Netlify

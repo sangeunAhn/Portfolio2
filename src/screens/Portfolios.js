@@ -32,7 +32,7 @@ class Portfolios extends Component {
 				</div>
 				<div className="portfolio">
 					<a
-						href="https://determined-joliot-f426b7.netlify.com"
+						href="https://happy-bhabha-ab7174.netlify.com/#/"
 						style={{ width: '40%', borderWidth: 1, borderColor: 'black', borderRightStyle: 'solid' }}
 					>
 						<img src={require('../images/pt2.png')} style={{ height: '100%', width: '100%' }} />
@@ -46,10 +46,10 @@ class Portfolios extends Component {
 							paddingTop: 20,
 						}}
 					>
-						<div style={{ fontSize: 30, marginBottom: 50 }}>Apollo Note</div>
-						<div style={{ marginBottom: 20 }}>GraphQL/Apollo를 이용하여 만든 간단한 노트</div>
-						<div style={{ marginBottom: 20 }}>React / GraphQL / Apollo / Netlify</div>
-						<a href="https://github.com/sangeunAhn/apollonote" style={{ width: 25 }}>
+						<div style={{ fontSize: 30, marginBottom: 50 }}>Popcorn Time</div>
+						<div style={{ marginBottom: 20 }}>Popcorn Time 클론 코딩</div>
+						<div style={{ marginBottom: 20 }}>React</div>
+						<a href="https://github.com/sangeunAhn/Popcorn-Time" style={{ width: 25 }}>
 							<IoLogoGithub size="24" style={{ marginRight: 5 }} />
 						</a>
 					</div>
@@ -71,7 +71,7 @@ class Portfolios extends Component {
 						}}
 					>
 						<div style={{ fontSize: 30, marginBottom: 50 }}>인스타그램 (RN 제작중)</div>
-						<div style={{ marginBottom: 20 }}>인스타그램 클론코딩</div>
+						<div style={{ marginBottom: 20 }}>인스타그램 클론 코딩</div>
 						<div style={{ marginBottom: 20 }}>
 							React / React-Native / GraphQL / Apollo / Prisma / Heroku / Netlify
 						</div>
